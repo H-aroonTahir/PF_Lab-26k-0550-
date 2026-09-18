@@ -1,4 +1,4 @@
-#PF LAB 03__ Introduction to Github and C Programming
+##PF LAB 03__ Introduction to Github and C Programming
 
 Name: Hamza Tahir
 
