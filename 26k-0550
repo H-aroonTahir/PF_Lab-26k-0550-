@@ -1,0 +1,41 @@
+## Task 02_Pseudocode
+
+Problem 1- Display Student Information
+
+Begin
+
+Declare variables:
+
+Student Name
+
+Roll no.
+
+GPA
+
+Store valid values in the variables.
+
+char Name
+
+char Rollno
+
+char GPA
+
+Ask the user "Enter your name: "
+
+Scan getchar(name)
+
+Display putchar(name)
+
+Ask the user "Enter your Roll no: "
+
+Read getchar(Rollno)
+
+Display putchar(Rollno)
+
+Ask the user "Enter your GPA: "
+
+Read getchar()
+
+Display putchar(GPA)
+
+End
